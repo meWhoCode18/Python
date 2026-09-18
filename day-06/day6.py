@@ -8,22 +8,30 @@ student = {
     "semester": 3
 }
 
-#access value using key values
+# #access value using key values
 print("accessing elements using dict :", student.get("name"))
 
-#adding values in a dict
+# #adding values in a dict
 student["Specialization"] = "PYTHON"
 print(student)
 
-#updating or modifying an element in a dict
+# #updating or modifying an element in a dict
 student["course"] = "Computer Science and Engineering"
 print(student)
 
-#checks whether a key exists or a key value pair exists
-#we ll use condition
+# #checks whether a key exists or a key value pair exists
+# #we ll use condition
 if "name" in student:
     print("name exists")
 
-#Printing length of the dictionary
+# #Printing length of the dictionary
 
 print("Length of the dict is : " ,(len(student)))
+
+
+#did less code today because of exams 
+#anyway 
+
+
+#day 6 -- complete
+

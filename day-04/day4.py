@@ -61,9 +61,23 @@
 # for x in sub: 
 #     print(x)
 
-#task 6 combine two tuple together
-morning_sub = ("DSA", "Python")
-evening_sub = ("OperatingSystem", "ComputerNetworks")
-#combining tuples here 
-combine = morning_sub + evening_sub
-print(combine)
+# #task 6 combine two tuple together
+# morning_sub = ("DSA", "Python")
+# evening_sub = ("OperatingSystem", "ComputerNetworks")
+# #combining tuples here 
+# combine = morning_sub + evening_sub
+# print(combine)
+
+
+
+
+#today I learn about another data structure of Python called as Tuple and its operations , and also I made a mini project student info and others to perform different operations of it.
+
+#topics learnt today
+#indexing
+#len()
+#in 
+#slicing 
+#looping
+
+#day 4 complete ---

@@ -131,12 +131,19 @@ second_list = [50, 60, 69, 72, 87]
 #     second_list.sort()
 #     print(second_list)
 # elif ask == "H":
-#     second_list.reverse()
+#     second_list.sort(reverse=True)
 #     print(second_list)
 # else:
 #     print("Invalid input")
 
-copy = second_list.copy()
-print(copy)
+
+# #task 12
+# copy = second_list.copy()
+# print(copy)
+
+
+#end of day 3 
+
+#learnt about list completely 
 
 
