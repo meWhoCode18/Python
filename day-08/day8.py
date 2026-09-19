@@ -57,3 +57,5 @@ def calculate_percentage(number_of_subjects, total):
     return percentage
 
 print("PERCENTAGE : ",calculate_percentage(5, total))
+#learnt about functions today
+#day 8 -- complete
